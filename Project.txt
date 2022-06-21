@@ -1,0 +1,2 @@
+Authentication use laravel JWT Token based
+vue 3 cli 
